@@ -1,4 +1,4 @@
-#Stage 1- Software Engineering Proposal
+#Stage 1-Software Engineering Proposal
 InfluxDB + GRAFANA DASHBOARD
 https://datalogd.readthedocs.io/en/latest/recipes/win_serial_influxdb_grafana.html
 
